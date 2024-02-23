@@ -69,6 +69,7 @@ PWD: rClqPzmpzZS8ehZl418hHoZDaIlvXFNuCYJY7wnr
 PWD01: xoAvzxEq42yXm332QCVOSusgSHgPgj9fS4EiwWRt
 
 
+THIS IS FOR THE MANIFEST FILE
 apiVersion: apps/v1
 kind: Deployment
 metadata:
